@@ -19,6 +19,7 @@ https://www.linkedin.com/in/ujjawal-shrivastava-81a384218
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
 </details>
+<iframe src="https://api.badgr.io/public/assertions/V3jAxIx_SDawtkumLQKsyQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=ujjawalshrivastava698%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
 <!---
 ujjwalshriv3/ujjwalshriv3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
