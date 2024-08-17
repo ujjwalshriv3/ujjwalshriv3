@@ -79,6 +79,10 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=pink)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-%2300C4CC.svg?style=for-the-badge&logo=Vscode&logoColor=pink)
+
+
+
 
 
 
@@ -97,8 +101,7 @@
 
 ![Github Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ujjwalshriv3&limit=5&theme=react&combine_all_yearly_contributions=true)
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -110,7 +113,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
-</details>
+
 <iframe src="https://api.badgr.io/public/assertions/V3jAxIx_SDawtkumLQKsyQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=ujjawalshrivastava698%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
 <!---
 ujjwalshriv3/ujjwalshriv3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
