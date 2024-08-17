@@ -3,7 +3,6 @@
 <h1>Hi Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">, I'm Ujjawal Shrivastava</h1>
 <br/>
 
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://ujjwalshriv3.github.io/portfolio/)](https://ujjwalshriv3.github.io/portfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=ujjwalshriv3&color=blue&logo=flat)
 
 ## 👨🏻‍💻 About me
