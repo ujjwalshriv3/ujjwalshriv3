@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Open source project.**
 - 🌱 Pursuing **Btech**
-- 🌱 I’m currently learning **Salesforce Developer**
+- 🌱 I’m currently learning **Salesforce Developer And MERN**
 - 💬 Feel free to contact me to discuss about projects and share innovative ideas <a href="https://discordapp.com/users/ujjwalshriv3">here</a>.
 - 👯 I’m looking to collaborate on **Projects that enhances my knowledge and bring growth to the clients.**
 - 🤝 I’m looking for help with **learning lwc components and Data Science .**
