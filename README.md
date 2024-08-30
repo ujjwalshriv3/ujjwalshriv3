@@ -93,7 +93,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ujjwalshriv3&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 
-![Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalshriv3&theme=gotham&hide_border=true)
+![Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalshriv3&theme=gotham&hide_border=false)
 
 ![Github Readme languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalshriv3&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
