@@ -83,12 +83,19 @@
 ![Vscode](https://img.shields.io/badge/Vscode-%2300C4CC.svg?style=for-the-badge&logo=Vscode&logoColor=pink)<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-
-
-
-
 ## 📊 GitHub Statistics:
 
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=ujjwalshriv3&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=5&row=1)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ujjwalshriv3&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+
+![Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalshriv3&theme=gotham&hide_border=false)
+
+![Github Readme languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalshriv3&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Github Activit Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjwalshriv3&theme=react-dark)
+
+![Github Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ujjwalshriv3&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 
 ## GSSOC(24) Badges 🪶
