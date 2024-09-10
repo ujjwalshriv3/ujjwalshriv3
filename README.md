@@ -89,17 +89,7 @@
 
 ## 📊 GitHub Statistics:
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=ujjwalshriv3&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=5&row=1)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ujjwalshriv3&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-
-![Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalshriv3&theme=gotham&hide_border=false)
-
-![Github Readme languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalshriv3&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Github Activit Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjwalshriv3&theme=react-dark)
-
-![Github Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ujjwalshriv3&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
